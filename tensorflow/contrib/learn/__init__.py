@@ -20,6 +20,7 @@ See the @{$python/contrib.learn} guide.
 
 @@BaseEstimator
 @@Estimator
+@@SKCompat
 @@Trainable
 @@Evaluable
 @@KMeansClustering
